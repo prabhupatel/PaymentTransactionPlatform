@@ -11,6 +11,6 @@ How to run
 6. Build the gradle project:
    ./gradlew build
 7. run the below command to execute:
-   java -jar build/libs/PaymentTransactionPlatform-1.0-SNAPSHOT.jar <AbsolutePath>/sample/data.txt
+   java -jar build/libs/PaymentTransactionPlatform-1.0-SNAPSHOT.jar /<AbsolutePath>/sample/data.txt
 
 8. check result in log/console.
